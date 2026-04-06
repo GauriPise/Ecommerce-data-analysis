@@ -24,7 +24,9 @@ Analyze e-commerce sales data to identify customer purchasing behavior, product 
 - Certain regions dominate overall sales
 
 ## 📸 Dashboard / Output
+</p>
 ![Dashboard]("C:\Users\Admin\Pictures\Screenshots\Screenshot 2026-03-20 183033.png")
+</p>
 
 ---
 

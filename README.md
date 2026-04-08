@@ -237,3 +237,31 @@ This project demonstrates how data analysis can uncover sales trends and support
 
 ### Profit Analysis
 <img src="https://github.com/GauriPise/Ecommerce-data-analysis/blob/main/Screenshot 2026-03-20 183142.png" width="1000"> <br> 
+
+
+### Python Images
+
+<img src="https://github.com/GauriPise/Ecommerce-data-analysis/blob/main/Screenshot 2026-03-20 182355.png" width="1000"> <br> 
+
+<img src="https://github.com/GauriPise/Ecommerce-data-analysis/blob/main/Screenshot 2026-03-20 182424.png" width="1000"> <br> 
+
+<img src="https://github.com/GauriPise/Ecommerce-data-analysis/blob/main/Screenshot 2026-03-20 182443.png" width="1000"> <br> 
+
+<img src="https://github.com/GauriPise/Ecommerce-data-analysis/blob/main/Screenshot 2026-03-20 182518.png" width="1000"> <br> 
+
+<img src="https://github.com/GauriPise/Ecommerce-data-analysis/blob/main/Screenshot 2026-03-20 182538.png" width="1000"> <br> 
+
+<img src="https://github.com/GauriPise/Ecommerce-data-analysis/blob/main/Screenshot 2026-03-20 182607.png" width="1000"> <br>
+
+<img src="https://github.com/GauriPise/Ecommerce-data-analysis/blob/main/Screenshot 2026-03-20 182620.png" width="1000"> <br>
+
+---
+### SQL Images
+
+<img src="https://github.com/GauriPise/Ecommerce-data-analysis/blob/main/Screenshot 2026-03-20 182710.png" width="1000"> <br> 
+
+<img src="https://github.com/GauriPise/Ecommerce-data-analysis/blob/main/Screenshot 2026-03-20 182807.png" width="1000"> <br> 
+
+<img src="https://github.com/GauriPise/Ecommerce-data-analysis/blob/main/Screenshot 2026-03-20 182844.png" width="1000"> <br> 
+
+
